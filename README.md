@@ -2,7 +2,7 @@
 
 A repo made for our comp 3610 Proejct
 
-# Predicting the Impact of Hurricanes, Flooding and Earthquakes on Regions of Trinidad and Tobago.
+#  Predictive Analysis of Weather in Trinidad and Tobago
 
   Group Members: 
     Jordhan Couteau (816036449)
