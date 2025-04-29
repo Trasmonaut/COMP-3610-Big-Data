@@ -14,10 +14,7 @@ precipcover                     % of reigion covered by precip
 windspeed                       wind speed in MPH
 cloudcover                      % of reigion covered by cloud
 visibility                      distance in Miles
-location                        location data was sampled off
-sunrise time                    hour:minute:second
-sunset time                     hour:minute:second
-{location} precip mm            precipatiaion in mm for given area
+precip mm            precipatiaion in mm for given area
 tempmax c                       max temp for Trinidad and Tobago in C
 tempmin c                       min temp for Trinidad and Tobago in C
 avgtemp c                       avg temp for Trinidad and Tobago in C
