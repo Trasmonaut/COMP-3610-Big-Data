@@ -10,7 +10,6 @@ Precip column named after location, example Port of Spain precip mm
 Data                            Format
 datetime                        day/month/year
 humidity                        humidity out of 100
-precipcover                     % of reigion covered by precip
 windspeed                       wind speed in MPH
 cloudcover                      % of reigion covered by cloud
 visibility                      distance in Miles
