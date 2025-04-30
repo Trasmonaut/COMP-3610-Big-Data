@@ -3,9 +3,9 @@
 "dataCleaner.ipynb" is a cleaner to standardize the data as read from Website according to Lilly's collection/cleaning, to be used for weather prediciton.
 Missing Precipiation data was filled in with the averages to avoid sqewing the data significantly, and to avoid removing null data from set.
 
-Assume Temperature in Different reigions is the same, (example 59 C El Soccoro, 59 C Port of Spain). As such, only variable changing between regions is preciptation.
-Precip column named after location, example Port of Spain precip mm
-
+"XGBoostWeather-Merged" is the weather model of all the data, when merged and applied togteher
+"XGBoostWeather" is a weather model but for only 1 dataset (degreaded)
+"Merge Clean Files" merges the cleaned dataset into a single Dataset
 
 Data                            Format
 datetime                        day/month/year
