@@ -1,11 +1,22 @@
-# COMP-3601-Big-Data
+# COMP-3601-Big-Data - Predictive Analysis of Weather in Trinidad and Tobago
 
-A repo made for our comp 3610 Proejct
-
-#  Predictive Analysis of Weather in Trinidad and Tobago
-
-  Group Members: 
+## Group Members: 
     Jordhan Couteau (816036449)
     Lillian Charles    (816037199)
     Caleb Ramdath  (816038072)
 
+## Overview
+
+A predictive weatehr model for Trinidad and Tobago using historical weather data and XGBoost. Historical weather data is fed in on 16 reigions of Trinidad and Tobago. This data is used to train the model to predict the following for the different regions of Trinidad and Tobago:
+* Max Actual Temp C
+* Min Actual Temp C
+* Average Actual Temp C
+* Max Relative Temp C
+* Min Relative Temp C
+* Average Relative Temp C
+* Dew Point C
+* Humidity %
+* WindSpeed MPH
+* Cloud Cover %
+* Visibiltiy Miles
+* Precipiation mm
