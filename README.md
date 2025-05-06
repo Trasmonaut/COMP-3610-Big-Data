@@ -21,14 +21,13 @@ A predictive weatehr model for Trinidad and Tobago using historical weather data
 * Visibiltiy Miles
 * Precipiation mm
 
-
 This was done for the following regions
-* San Juan
+* San Juan-Laventille
 * Point Fortin
 * Penal-Debe
 * Digeo Martin
 * Crown Point (Tobago)
-* Talparo
+* Talparo-Couva-Tabaquite
 * Chaguanas
 * Arima
 * Piaco-Tunapuna
@@ -36,6 +35,8 @@ This was done for the following regions
 * Scarbrough (Tobago)
 * Sangre Grande
 * San Fernado
-* Rio Claro - Mayaro
+* Rio Claro-Mayaro
 * Princes Town
 * Port of Spain
+
+Data Source - Visual Crossing's Historical Weather data for Trinidad and Tobago
