@@ -43,10 +43,10 @@ This was done for the following regions
 
 Data Source - Visual Crossing's Historical Weather data for Trinidad and Tobago
 
-##XGBoost and Weather Prediction
+## XGBoost and Weather Prediction
 
 This app uses XGBoost to make it's predictions, through Chained Multiouput Regression, where the output from one model is used to influence the output of the one that follows it. The result is a model with an average of 98.47% accuracy, on Time Series data for Trinidad and Tobago.
 
-##Weather Prediction app - TTPredict
+## Weather Prediction app - TTPredict
 
 These models were used to form the back end of a website, where users can input a date and location in Trinidad and Tobago, and be output with a prediction of the weather on that given date.
